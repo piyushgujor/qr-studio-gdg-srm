@@ -33,4 +33,10 @@ The `dist` directory can be deployed to Vercel or Netlify.
 QR data is generated in the browser. This project does not require a backend or database. Recent configurations and theme preferences are stored locally in the browser.
 
 ## Screenshots
-Add final desktop/mobile screenshots here before submitting the GitHub repository.
+## in leptop:
+<img width="1853" height="947" alt="image" src="https://github.com/user-attachments/assets/e2522fe3-07c2-49de-b5b4-dc460b8e157d" />
+## in mobile:
+<img width="252" height="578" alt="image" src="https://github.com/user-attachments/assets/b1063384-36f3-4a02-9a0b-7d1ca3eb8bbd" />
+<img width="262" height="581" alt="image" src="https://github.com/user-attachments/assets/160dfda0-17ec-4208-9db8-0db770643162" />
+<img width="260" height="582" alt="image" src="https://github.com/user-attachments/assets/6401d786-ff35-47ab-be9f-005398043a44" />
+
